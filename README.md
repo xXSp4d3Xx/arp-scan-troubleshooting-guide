@@ -87,6 +87,7 @@ Academic‑style labs:
 
 ## Included Files
 
+[📄 Download the ARP‑Scan Training Guide (PDF)](./arp_scan_training_guide_full.pdf)
 
 ---
 
