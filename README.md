@@ -87,8 +87,7 @@ Academic‑style labs:
 
 ## Included Files
 
-- `arp_scan_training_guide_full.pdf` — Full training guide  
-- `examples/` — Optional sample files for labs and demonstrations  
+
 
 ---
 
